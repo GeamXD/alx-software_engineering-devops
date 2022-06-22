@@ -1,2 +1,2 @@
 #!/bin/bash
-mw [A-Z]* /tmp/u
+mw [[:upper:]]* /tmp/u
